@@ -8,4 +8,5 @@ The LandLords is a P2E NFT game based on virtual land ownership strategies.
    - ERC-721 contract Etherscan:https://rinkeby.etherscan.io/token/0x0b39887b0ca39bdced3dc2c80ccf2506037d92d9
    - OpenSea Testnet:https://testnets.opensea.io/collection/landlords-buildings
 3. **$LAND in Game Token**:
-   - ERC-20 contract Etherscan:
+   - ERC-20 contract Etherscan: https://rinkeby.etherscan.io/token/0x10239b16dbf9cef05a624c304f0c204317372168
+   
